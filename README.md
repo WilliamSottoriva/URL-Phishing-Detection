@@ -20,3 +20,5 @@ cybersecurity challenges, with the potential to significantly reduce the impact 
 by accurately identifying malicious websites.
 
 ![Untitled](https://github.com/user-attachments/assets/5d63b664-dd96-4f9b-9d06-f9867b49d928)
+
+![Untitled](https://github.com/user-attachments/assets/b8f1d79d-864c-4ff5-a2f5-2fabe3a5d5c1)
