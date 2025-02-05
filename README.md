@@ -18,3 +18,5 @@ major challenge, addressed through hyperparameter optimisation and model archite
 The findings underscore the importance of advanced machine learning models in addressing
 cybersecurity challenges, with the potential to significantly reduce the impact of phishing attacks
 by accurately identifying malicious websites.
+
+![Untitled](https://github.com/user-attachments/assets/5d63b664-dd96-4f9b-9d06-f9867b49d928)
